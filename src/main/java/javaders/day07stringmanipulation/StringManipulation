@@ -1,0 +1,11 @@
+
+                //***********  String Methodları ***********
+
+
+1) endsWith () = Metnin belirli bir datayla bitip bitmediğini verir.
+                 Bize boolean bir sonuc dondurur.
+                 Tek karakterde coklu karakterde kullanılabilir.
+
+2) replace () =  Metnin içerisindeki belirli bir datanın yerine verilen diğer datayi yerleştirir.
+                 Bize String bir data dondurur.
+
